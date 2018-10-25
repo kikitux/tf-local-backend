@@ -9,4 +9,4 @@ terraform fmt
 terraform init
 teraform apply
 ```
-More about Local State can be found [HERE](https://www.terraform.io/docs/state/index.html)
+More about TF Local State can be found [HERE](https://www.terraform.io/docs/state/index.html)
